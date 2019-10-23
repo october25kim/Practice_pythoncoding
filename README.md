@@ -1,5 +1,71 @@
 # PythonCoding_Practice
+DMQA 신입생들의 파이썬 코딩 스터디.  
 
-* Python 기본 자료구조
-* Numpy, Pandas
-* 효유적인 코드 
+2019년 10월 23일, 시작.
+
+### 스터디 규칙
+- 함께 자라기 : 동료가 성장하면 저도 성장하고, 업무 퀄리티도 좋아집니다
+- 모르는 내용에 대해 서로 알려주기 : 모두 잘 알수는 없어요. 내가 모르는 내용을 다른 분이 알 수 있어요. 돕고 살아요
+- 바로 물어보기 : 토론식 스터디라 바로 물어봐도 괜찮아요
+
+### 스터디 방식
+- 매주 화요일마다 스터디(2시간)
+  - 미리 준비할 필요 없이, 스터디 시간에 책을 읽음
+	- 타이머 시간 설정을 한 후 각자 읽어봄(Default : 15분)
+	- 코드도 눈으로 보고 넘김
+- 각자 읽은 부분 중
+	- 중요하게 생각하는 것
+	- 나에게 특히 영감을 준 부분
+	- 의문점이 드는 것 등을 공유
+- 분량이 너무 많은 경우 타이머 시작하기 전에 섹션을 나눈 후 읽고 담당 섹션에 대해 이야기
+
+- 코드 구현
+	- 2가지 방식으로 진행할 예정 
+	- 1) 2명이 하나의 노트북을 두고 Pair Programming
+		- (의견 받습니다. 2명 팀으로 각자 노트북에서 진행?) 
+	- 2) 캐글 커널 필사 (따라 치기) => 이것도 짝꿍은 있되, 각자 노트북으로 진행
+
+### 공부의 순서
+- 파이썬 자료구조 및 알고리즘 개론.
+  - 강의 수강
+    - 데이터 구조 및 분석: Linear Structure and Dynamic Programming
+    - 데이터 구조 및 분석: Non-Linear Structure, Optimization, and Algorithms
+- Numpy, Pandas 
+- 2) 사이킷런으로 시작하는 머신러닝 (55p)
+	- sklearn Estimator, Model Selection, 데이터 전처리 
+- 3) 평가 (34p)
+	- Accuracy, Precision, Recall, Confusion Matrix, F1 Score, ROC Curve, AUC 
+- 4) 분류 (105p)
+	- Decision Tree, Ensemble, Random Forest, Gradient Boosting Machine, XGBoost, LightGBM, Under Sampling/Over Sampling, Stacking 
+- 5) 회귀 (85p)
+	- Linear Regression, Lidge, Rasso, ElasticNet, Logistic Regression 
+- 6) 차원 축소 (30p)
+	- PCA, LDA, SVD, NMF 
+- 7) 군집화 (54p)
+	- K-means, Cluster Evaluation, Mean Shift, GMM, DBSCAN 
+- 여기까지 449p
+- 8) 텍스트 분석 (94p)
+- 9) 추천 시스템 (63p)
+	- 8), 9)는 다루지 않을 예정 
+
+### 
+- Git clone
+
+	```
+	git clone https://github.com/zzsza/Perfect-Guide-about-Machine-Learning-Study.git
+	```
+
+- Repo를 최신화하고 싶은 경우
+
+	```
+	git pull
+	```
+	
+### 스터디 기록 및 회고
+- 19.10.23
+	- Git Repository 생성.
+
+	
+### Reference
+- 
+- 
