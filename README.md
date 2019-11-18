@@ -1,5 +1,5 @@
-# PythonCoding_Practice
-DMQA 신입생들의 파이썬 코딩 스터디.  
+# DMQA Study
+DMQA 신입생들의 스터디.  
 
 2019년 10월 23일, 시작.
 
