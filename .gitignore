@@ -1,1 +1,4 @@
 *-checkpoint.ipynb
+*.gz
+*.npz
+*.csv
