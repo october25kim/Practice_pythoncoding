@@ -1,4 +1,0 @@
-#1 1.3 Unsupervised Learning
-9페이지 1문단 B6
-Second X is a vector of features, so we need to create multivariate probability models. By contrast, in supervised learning, y is usually just a single variable that we are trying to predict.
-
